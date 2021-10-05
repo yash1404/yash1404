@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yash1404
 - 👀 I’m interested in frontend web devlopment.
-- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on any project regarding frontend web development.
 - 📫 How to reach me ? (yashe045@gmail.com)this is my mail id u can contact me through this mail .
 
